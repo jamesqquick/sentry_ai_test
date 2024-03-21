@@ -1,0 +1,13 @@
+{
+  "id": "mig_cn0h094hai7b5bk8p9b0",
+  "parentID": "mig_cn0gupb6hlb4ktd6dqqg",
+  "checksum": "1:343d61b47b8c0715701aa993791e09e81a66d734fb623cd36200f1489f8977ff",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "unsubscribeToken",
+        "table": "subscribers"
+      }
+    }
+  ]
+}

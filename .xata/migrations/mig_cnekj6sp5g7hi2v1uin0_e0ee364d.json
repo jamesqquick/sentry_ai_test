@@ -1,0 +1,14 @@
+{
+  "id": "mig_cnekj6sp5g7hi2v1uin0",
+  "parentID": "mig_cnekj5kp5g7hi2v1uim0",
+  "checksum": "1:e0ee364d66b7f0e40444a41de9b59fd9284dba409ae776e635cf673bb4c1f202",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "toolNotifications",
+        "oldName": "ToolNotifications",
+        "table": "subscribers"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mig_cn0guishai7b5bk8p8m0",
+  "parentID": "mig_cn0gu4khai7b5bk8p89g",
+  "checksum": "1:5fae42c33f7230a89af7c2c5f410d0670ba39ec5b5de506e26560c914736450b",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "status",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "UNSUBSCRIBED"
+        },
+        "table": "subscribers"
+      }
+    }
+  ]
+}

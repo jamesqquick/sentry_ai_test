@@ -1,0 +1,14 @@
+{
+  "id": "mig_cnekiucp5g7hi2v1uii0",
+  "parentID": "mig_cnekit3uturo10a50am0",
+  "checksum": "1:b139868b77bed95090f91c3fb6e543faa376bbf56757beeb3a17bee83a58d210",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "ebookNotifications",
+        "oldName": "bookNotifications",
+        "table": "subscribers"
+      }
+    }
+  ]
+}

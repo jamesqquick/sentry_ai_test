@@ -1,0 +1,17 @@
+{
+  "id": "mig_cn0h18j6hlb4ktd6dr6g",
+  "parentID": "mig_cn0h13khai7b5bk8p9d0",
+  "checksum": "1:4794088bc155260b275b14c89c1a2b674b7e5331d7743c9df0d82d535ca1e16f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "ConferenceNotifications",
+          "type": "bool",
+          "defaultValue": "false"
+        },
+        "table": "subscribers"
+      }
+    }
+  ]
+}

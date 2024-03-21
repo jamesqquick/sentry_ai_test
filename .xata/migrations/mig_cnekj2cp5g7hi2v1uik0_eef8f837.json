@@ -1,0 +1,14 @@
+{
+  "id": "mig_cnekj2cp5g7hi2v1uik0",
+  "parentID": "mig_cnekivsp5g7hi2v1uij0",
+  "checksum": "1:eef8f837633d42c6cf156fd6d7390f62cf20cdb46e861a35d09f04ebe41f023a",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "officeEquipmentNotifications",
+        "oldName": "OfficeEquipmentNotifications",
+        "table": "subscribers"
+      }
+    }
+  ]
+}

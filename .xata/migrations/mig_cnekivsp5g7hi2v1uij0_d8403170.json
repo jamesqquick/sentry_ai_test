@@ -1,0 +1,14 @@
+{
+  "id": "mig_cnekivsp5g7hi2v1uij0",
+  "parentID": "mig_cnekiucp5g7hi2v1uii0",
+  "checksum": "1:d8403170a25bbecc8ea72ff3cd93bf49d47a646ab61f9e18d3b1c689928586af",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "miscNotifications",
+        "oldName": "MiscNotifications",
+        "table": "subscribers"
+      }
+    }
+  ]
+}

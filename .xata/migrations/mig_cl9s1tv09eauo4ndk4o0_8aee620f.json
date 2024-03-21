@@ -1,0 +1,16 @@
+{
+  "id": "mig_cl9s1tv09eauo4ndk4o0",
+  "parentID": "mig_cl6mm5ctl6u1ihs07opg",
+  "checksum": "1:8aee620f4ba98dd3cca0337cc33ae4befb00534ecd3435b1b66b850eed75bd9e",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "startDate",
+          "type": "datetime"
+        },
+        "table": "deals"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mig_cldp04o2siti2d3d7ebg",
+  "parentID": "mig_clbtu3fihodm1m3fqvhg",
+  "checksum": "1:7a0b8c603486e716aeda803525bea3ae08d37857c4c01447929678d1468e5a1d",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "featured",
+          "type": "bool",
+          "notNull": true,
+          "defaultValue": "false"
+        },
+        "table": "deals"
+      }
+    }
+  ]
+}

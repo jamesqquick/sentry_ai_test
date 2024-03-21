@@ -1,0 +1,17 @@
+{
+  "id": "mig_cnekjhp9o9me583oq7a0",
+  "parentID": "mig_cnekj6sp5g7hi2v1uin0",
+  "checksum": "1:1c21a99ce895772061f6e7b02c0d8490a1c7dedfc54d6d580966117dd117e04d",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "verified",
+          "type": "bool",
+          "defaultValue": "false"
+        },
+        "table": "subscribers"
+      }
+    }
+  ]
+}

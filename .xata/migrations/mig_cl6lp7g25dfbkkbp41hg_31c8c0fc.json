@@ -1,0 +1,17 @@
+{
+  "id": "mig_cl6lp7g25dfbkkbp41hg",
+  "parentID": "mig_cl6lc4g25dfbkkbp402g",
+  "checksum": "1:31c8c0fcf7649514738b3ac16e448eb375380186248537429db307c36f013b7e",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "approved",
+          "type": "bool",
+          "defaultValue": "false"
+        },
+        "table": "deals"
+      }
+    }
+  ]
+}

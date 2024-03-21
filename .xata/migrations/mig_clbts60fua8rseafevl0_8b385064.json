@@ -1,0 +1,14 @@
+{
+  "id": "mig_clbts60fua8rseafevl0",
+  "parentID": "mig_clbtru8fua8rseafevk0",
+  "checksum": "1:8b38506499b09c259a1edb93d3dc5c1cdc78e16a76817e8a11a514dbfc9fba4e",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "dealType",
+        "oldName": "contentType",
+        "table": "deals"
+      }
+    }
+  ]
+}

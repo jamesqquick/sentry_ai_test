@@ -1,0 +1,17 @@
+{
+  "id": "mig_cn0h0t4hai7b5bk8p9c0",
+  "parentID": "mig_cn0h094hai7b5bk8p9b0",
+  "checksum": "1:0eb9f912c86a70e7072d7851137a51b29de6684f8d1dce58a07d64caaefab176",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "EbookNotifications",
+          "type": "bool",
+          "defaultValue": "false"
+        },
+        "table": "subscribers"
+      }
+    }
+  ]
+}

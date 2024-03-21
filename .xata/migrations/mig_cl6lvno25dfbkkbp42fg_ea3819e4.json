@@ -1,0 +1,16 @@
+{
+  "id": "mig_cl6lvno25dfbkkbp42fg",
+  "parentID": "mig_cl6lro4tl6u1ihs07l5g",
+  "checksum": "1:ea3819e4632a443d7cd0868817b59d15b5926455410ec2894217a69271ee73da",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "couponPercent",
+          "type": "int"
+        },
+        "table": "deals"
+      }
+    }
+  ]
+}

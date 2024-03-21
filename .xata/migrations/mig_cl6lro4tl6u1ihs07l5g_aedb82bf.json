@@ -1,0 +1,18 @@
+{
+  "id": "mig_cl6lro4tl6u1ihs07l5g",
+  "parentID": "mig_cl6lp7g25dfbkkbp41hg",
+  "checksum": "1:aedb82bfc6c075ed7fffba8f6dd8c260ac996d662414853ced2f4a7597dc5872",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "description",
+          "type": "text",
+          "notNull": true,
+          "defaultValue": "null"
+        },
+        "table": "deals"
+      }
+    }
+  ]
+}

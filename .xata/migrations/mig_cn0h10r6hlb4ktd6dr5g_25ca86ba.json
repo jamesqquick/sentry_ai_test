@@ -1,0 +1,17 @@
+{
+  "id": "mig_cn0h10r6hlb4ktd6dr5g",
+  "parentID": "mig_cn0h0t4hai7b5bk8p9c0",
+  "checksum": "1:25ca86ba80564dee9cdea3e68e4eeb14471141ef5333ce5addcd33ed591fa8c4",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "CourseNotifications",
+          "type": "bool",
+          "defaultValue": "false"
+        },
+        "table": "subscribers"
+      }
+    }
+  ]
+}

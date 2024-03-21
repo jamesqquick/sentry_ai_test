@@ -1,0 +1,17 @@
+{
+  "id": "mig_cn0h1f4hai7b5bk8p9f0",
+  "parentID": "mig_cn0h1d4hai7b5bk8p9e0",
+  "checksum": "1:91c7e2e6aa56ea12505a8bedd806de97e411ca7e2dc363e955a5f1d85f0ab314",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "MiscNotifications",
+          "type": "bool",
+          "defaultValue": "false"
+        },
+        "table": "subscribers"
+      }
+    }
+  ]
+}

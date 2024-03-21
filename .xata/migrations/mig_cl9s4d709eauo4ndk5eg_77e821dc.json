@@ -1,0 +1,16 @@
+{
+  "id": "mig_cl9s4d709eauo4ndk5eg",
+  "parentID": "mig_cl9s1vgc4l9ri3sgu4tg",
+  "checksum": "1:77e821dc5d378bb9c15f3eacbdd62839b1a68df1eeb242c06ab67aae2ac29616",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "email",
+          "type": "email"
+        },
+        "table": "deals"
+      }
+    }
+  ]
+}

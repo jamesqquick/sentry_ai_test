@@ -1,0 +1,16 @@
+{
+  "id": "mig_cmg595ra1rkv0o65j3t0",
+  "parentID": "mig_cldpei02siti2d3d7hbg",
+  "checksum": "1:5533720ed4a02c570d60d198a7f2448287e88b52322c72e96d516016db0e4766",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "image",
+          "type": "file"
+        },
+        "table": "deals"
+      }
+    }
+  ]
+}

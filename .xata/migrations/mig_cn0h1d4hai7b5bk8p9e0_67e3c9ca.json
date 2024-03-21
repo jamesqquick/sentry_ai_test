@@ -1,0 +1,17 @@
+{
+  "id": "mig_cn0h1d4hai7b5bk8p9e0",
+  "parentID": "mig_cn0h18j6hlb4ktd6dr6g",
+  "checksum": "1:67e3c9ca0a5c947c94e904b4ab6be95f922f1f65cb55576d6cb1adae4a4acd6e",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "OfficeEquipmentNotifications",
+          "type": "bool",
+          "defaultValue": "false"
+        },
+        "table": "subscribers"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "mig_cn0h13khai7b5bk8p9d0",
+  "parentID": "mig_cn0h10r6hlb4ktd6dr5g",
+  "checksum": "1:2640d2cd8e5c2b5a77c2712bdbd5a7383c8319274ee40a14dc3779e0395840a4",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "ToolNotifications",
+          "type": "bool",
+          "defaultValue": "false"
+        },
+        "table": "subscribers"
+      }
+    }
+  ]
+}

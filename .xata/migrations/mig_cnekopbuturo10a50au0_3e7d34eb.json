@@ -1,0 +1,16 @@
+{
+  "id": "mig_cnekopbuturo10a50au0",
+  "parentID": "mig_cneknvbuturo10a50at0",
+  "checksum": "1:3e7d34eb4aa8725881c6a0a9df85bc3614cb32e2ab4a9582ef00b09572a032b5",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "humanReadableName",
+          "type": "string"
+        },
+        "table": "dealTypes"
+      }
+    }
+  ]
+}

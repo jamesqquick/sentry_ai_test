@@ -1,0 +1,14 @@
+{
+  "id": "mig_cnekj5kp5g7hi2v1uim0",
+  "parentID": "mig_cnekj34p5g7hi2v1uil0",
+  "checksum": "1:adca5584b2eba6e37955a54a2e419afca05bfb9993facec84b6da2161211700e",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "courseNotifications",
+        "oldName": "CourseNotifications",
+        "table": "subscribers"
+      }
+    }
+  ]
+}
